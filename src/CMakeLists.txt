@@ -121,6 +121,7 @@ set(SPM_SRCS
   unigram_model.cc
   util.cc
   word_model.cc
+  c_adapter.cc
   ${ABSL_STRINGS_SRCS}
   ${ABSL_FLAGS_SRCS})
 
